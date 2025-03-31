@@ -1,0 +1,11 @@
+{
+  "name": "com.develec.toolkit",
+  "version": "1.0.0",
+  "displayName": "Develec Toolkit",
+  "description": "Librería personal de utilidades para proyectos Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Anabrashka",
+    "email": "tuemail@example.com"
+  }
+}
